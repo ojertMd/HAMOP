@@ -223,9 +223,10 @@ License
 
 ## Installation
 
+via Visual Studio or
+
 Using NuGet Package Manager:
 
 ```powershell
 Install-Package Hamop
 
-or via Visual Studio
