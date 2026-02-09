@@ -220,3 +220,12 @@ Leave the Root Namespace empty when rebuilding Hamop.dll
 License
 
 (Choose MIT or your preferred license)
+
+## Installation
+
+Using NuGet Package Manager:
+
+```powershell
+Install-Package Hamop
+
+or via Visual Studio
